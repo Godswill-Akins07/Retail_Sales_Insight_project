@@ -2,6 +2,26 @@
 An interactive Power BI dashboard analyzing retail sales data to uncover key trends, performance metrics, and actionable insights for business decision-making. 
 
 
+## Table of Contents
+
+- [Project Overview](#project-overview)
+
+- [Motivation](#motivation)
+
+- [Dataset](#dataset)
+
+- [Tools and Technologies](#tools-and-technologies)
+
+- [Project Workflow](#project-workflow)
+
+- [key Insights](#key-insights)
+
+- [Dashboard Screenshots](#dashboard-screenshots)
+
+- [Contact/Author](#contactauthor)
+
+
+
 ### Project Overview
 
   This project analyzes retail sales data to identify sales trends, top-performing products, regional performance, and customer purchasing behaviour. The dashboard provides business-ready insights to inform marketing, inventory and sales strategies.
